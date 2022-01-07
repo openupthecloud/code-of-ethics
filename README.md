@@ -18,7 +18,7 @@ A collection of ethical code for those creating tech content.
 
 1. **Create original content** - Do not steal or plagiarise content. Credit any original authors where possible. If content is inspired by someone elses, make sufficient edits so as to make it unique. 
 
-1. **Avoid "lists"** - It is often not very helpful to provide endless "listicle" type lists of links to resources for the purpose of click-bait. There are some notable exceptions, such as "awesome" type lists, etc. 
+1. **Avoid lazy "list" content** - It is often not very helpful to provide endless "listicle" type lists of links to resources for the purpose of click-bait. There are some notable exceptions, such as "awesome" type lists, etc. 
 
 Twitter thread origin [[1](https://twitter.com/loujaybee/status/1479554118184312833?s=20l)]
 
