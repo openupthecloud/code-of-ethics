@@ -20,6 +20,8 @@ A collection of ethical code for those creating tech content.
 
 1. **Avoid lazy "list" content** - It is often not very helpful to provide endless "listicle" type lists of links to resources for the purpose of click-bait. There are some notable exceptions, such as "awesome" type lists, etc. 
 
+1. **State your authority** - When talking about topics such as careers, where possible state your authority, e.g. companies you've worked for, for how long, and in which positions. Avoid giving advice where you have no practical experience. 
+
 Twitter thread origin [[1](https://twitter.com/loujaybee/status/1479554118184312833?s=20l)]
 
 ## Maintainers
