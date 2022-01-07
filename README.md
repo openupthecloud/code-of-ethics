@@ -11,3 +11,5 @@ A collection of ethical code for those creating tech content.
 4. **Provide free options** — Where possible, grant an option to receive a product or service without paying, e.g. if someone is unemployed. 
 
 5. **Provide weighted pricing based on region** - If possible, provide discounts to those in countries with weaker currencies, price based on local economies, not based solely on western economies. 
+
+6. **Bias to independent makers** - If possible, bias recommendations towards independent folks. Venture backed companies have enough money already, let's support "the little guy" where possible. 
