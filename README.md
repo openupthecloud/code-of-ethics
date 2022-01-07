@@ -8,7 +8,7 @@ A collection of ethical code for those creating tech content.
 
 3. **Be conscious of representation** — When running events, consider inviting a range of folks from different backgrounds. Where possible, share opportunities to those who are new to the industry. 
 
-4. **Provide free options** — Where possible, grant an option to receive a product or service without paying, e.g. if someone is unemployed. 
+4. **Provide free options** — Where possible, grant an option to receive a product or service without paying, e.g. if someone is unemployed, offer a free option. Vet backgrounds ethically. 
 
 5. **Provide weighted pricing based on region** - If possible, provide discounts to those in countries with weaker currencies, price based on local economies, not based solely on western economies. 
 
