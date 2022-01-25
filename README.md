@@ -1,4 +1,4 @@
-# Code Of Ethics (Tech Content Creation)
+# Code Of Ethics - For Tech Content Creators
 
 A collection of ethical guidelines for those who create tech content. 
 
