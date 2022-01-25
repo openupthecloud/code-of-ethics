@@ -1,6 +1,12 @@
 # code-of-ethics
 
-A collection of ethical code for those creating tech content. 
+A collection of ethical guidelines for those who create tech content. 
+
+## Why? 
+
+The purpose of the code is for the adopters to make a best effort attempt to achieve the guidelines outlined. The code comes in response to growing amounts of concerningly questionable content being produced under questionable motives [1](https://twitter.com/bweston26918/status/1486082262642958337?s=20l). This code of ethics applies to content creators who have communities, and readers at the heart of their content, not endless self-interest or self-promotion. 
+
+## Guidelines
 
 1. **Make financial relationships clear** — If affiliate links are used, go above and beyond government guidelines, make it as clear as possible any financial incentives or motivations that you have before referencing books, courses.
 
@@ -22,7 +28,7 @@ A collection of ethical code for those creating tech content.
 
 1. **State your authority** - When talking about topics such as careers, where possible state your authority, e.g. companies you've worked for, for how long, and in which positions. Avoid giving advice where you have no practical experience. 
 
-Twitter thread origin [[1](https://twitter.com/loujaybee/status/1479554118184312833?s=20l)]
+Read the [[origin twitter thread](https://twitter.com/loujaybee/status/1479554118184312833?s=20l)]
 
 ## Maintainers
 
